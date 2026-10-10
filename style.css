@@ -28,7 +28,6 @@ video {
 /* STYLE RULES FOR MOBILE VIEWPORT */  
 /*CSS Styles for header*/
 header {
-    position: sticky;
     top: 0;
     background-color: #000;
     height: 190px;
