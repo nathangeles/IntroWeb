@@ -247,7 +247,6 @@ footer p a {
 
 /* Tablet Viewport: Style rule for header */
     header {
-        position: sticky;
         padding-bottom: 2%;
     }
 
@@ -455,7 +454,6 @@ footer p a {
 
 /* Desktop Viewport: Style rule for header */
     header {
-    position: sticky;
     width: 25%;
     float:left;
     padding-bottom: 0;
